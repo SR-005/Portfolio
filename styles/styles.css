@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Brunson';
+    font-family: 'Highrise';
     src: url('HighriseFontRegular.otf') format('opentype');
     font-weight: lighter;
 }
@@ -11,10 +11,11 @@ body{
 }
 
 .sreeram{
-    font-family: 'Brunson';
-    color: azure;
-    font-size: 140px;
     text-align: center;
+    font-family: 'Highrise';
+    font-size: 140px;
+    color: #ffffff;
+    font-weight: normal;
     margin-bottom: 0px;
 }
 
@@ -24,4 +25,5 @@ body{
     font-size: 110px;
     text-align: center;
     margin-top: 0px;
+    
 }
