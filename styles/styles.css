@@ -4,25 +4,35 @@
     font-weight: lighter;
 }
 
-
-
-body{
+body {
+    margin: 0;
+    height: 100vh;
     background: #1e1e21;
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    text-align: center;        
 }
 
-.sreeram{
-    
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sreeram {
     font-family: 'Highrise';
-    font-size: 140px;
+    font-size: 280px;
+    color: #ffea00;
+    font-weight: normal;
+    margin: 0;
+    line-height: 0.5; /* tighter spacing */
+}
+
+.vgopal {
+    font-family: 'Highrise';
+    font-size: 280px;
     color: #ffffff;
     font-weight: normal;
-    margin: 0px;
-}
-.vgopal{
-    font-family: "MangoGrotesqueBlackIta";
-    color: azure;
-    font-size: 110px;
-    text-align: center;
-    margin-top: 0px;
-    
+    margin: 0;
 }
