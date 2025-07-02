@@ -11,14 +11,13 @@ body{
 }
 
 .sreeram{
-    text-align: center;
+    
     font-family: 'Highrise';
     font-size: 140px;
     color: #ffffff;
     font-weight: normal;
-    margin-bottom: 0px;
+    margin: 0px;
 }
-
 .vgopal{
     font-family: "MangoGrotesqueBlackIta";
     color: azure;
