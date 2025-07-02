@@ -1,9 +1,7 @@
 @font-face {
     font-family: 'Brunson';
-    src: url('Brunson Rough.ttf') format('ttf');
-             font-style: italic;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
+    src: url('HighriseFontRegular.otf') format('opentype');
+    font-weight: lighter;
 }
 
 
