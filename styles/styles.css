@@ -7,14 +7,23 @@ body {
   align-items: center;
 }
 
+.portfolio{
+  font-family: 'Highrise';
+  font-size: 24px;
+  color: white;
+  font-weight: normal;
+}
+
 .image-container {
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 100px;
 }
 
 .image-container img {
+  
   width: 900px;
   height: auto;
   display: block;
@@ -57,6 +66,7 @@ body {
   color: #ffea00;
   font-weight: normal;
   margin: 0;
+  padding-bottom: -70px;
   line-height: 0.85;
 }
 
