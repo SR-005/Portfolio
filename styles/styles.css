@@ -15,7 +15,7 @@ body {
 }
 
 .image-container img {
-  width: 750px;
+  width: 900px;
   height: auto;
   display: block;
 }
@@ -53,7 +53,7 @@ body {
 /* Name Styling */
 .sreeram {
   font-family: 'Highrise';
-  font-size: 280px;
+  font-size: 220px;
   color: #ffea00;
   font-weight: normal;
   margin: 0;
