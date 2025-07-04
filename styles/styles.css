@@ -38,7 +38,6 @@ body {
   pointer-events: none;
 }
 
-/* Text Overlay */
 .heading {
   position: absolute;
   display: flex;
@@ -48,7 +47,6 @@ body {
   color: white;
 }
 
-/* Intro text */
 .hello {
   font-family: 'Highrise';
   font-size: 24px;
