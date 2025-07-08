@@ -61,16 +61,18 @@ body {
 
 .hero-img{
   margin-right: 100px;
-  width: 900px;
+  width: 950px;
   height: auto;
 }
 
 .text-warning{
   font-family: 'Highrise';
-  font-size: 250px;
+  font-size: 220px;
   font-weight: normal;
   color: #e9d658;
   margin-bottom: -40px;
+  letter-spacing: 3px;
+  margin-left: -70px;
 }
 .overlay-text{
   z-index: 2;
